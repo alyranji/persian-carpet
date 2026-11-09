@@ -1,0 +1,6 @@
+{
+  "name": "ایرانی فرش | فروشگاه آنلاین فرش دستباف و ماشینی",
+  "description": "فروشگاه اینترنتی ایرانی فرش؛ بررسی، مقایسه و خرید آنلاین انواع فرش دستباف تبریز، کاشان، نائین و فرش‌های ماشینی مدرن و کلاسیک با ضمانت اصالت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
